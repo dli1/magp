@@ -5,6 +5,7 @@
 Download [the Crowdsourcing 2010 and Crowdsourcing 2011 data](https://drive.google.com/drive/folders/1GDOjUL5lIF6YYdt1yEkrTn4yaWiH_baF?usp=sharing) to reproduce the paper.
 
 ## Citation
+```
 @inproceedings{10.1145/3442381.3450047,
 author = {Li, Dan and Ren, Zhaochun and Kanoulas, Evangelos},
 title = {CrowdGP: A Gaussian Process Model for Inferring Relevance from Crowd Annotations},
@@ -21,3 +22,4 @@ keywords = {Relevance label, Gaussian process, Crowdsourcing, Bayesian model},
 location = {Ljubljana, Slovenia},
 series = {WWW '21}
 }
+```
