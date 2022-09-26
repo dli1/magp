@@ -1,5 +1,5 @@
 # magp
-
+Code and data for paper [Li, Dan, Zhaochun Ren, and Evangelos Kanoulas. "CrowdGP: A Gaussian process model for inferring relevance from crowd annotations." Proceedings of the Web Conference 2021. 2021.](https://dl.acm.org/doi/10.1145/3442381.3450047). 
 
 ## Data
 Download [the Crowdsourcing 2010 and Crowdsourcing 2011 data](https://drive.google.com/drive/folders/1GDOjUL5lIF6YYdt1yEkrTn4yaWiH_baF?usp=sharing) to reproduce the paper.
